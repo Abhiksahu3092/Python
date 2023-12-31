@@ -6,4 +6,7 @@ print(min)
 if a==b:
     print("a and b are equal")
 else:
-    print("Both are unequal")
+    if a>b:
+        print("a is greater")
+    else :
+        print("b is greater")
