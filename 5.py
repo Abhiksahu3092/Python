@@ -1,10 +1,6 @@
 #ternary operator in python
 a,b=10,30
-if a<b:
-    min=a
-else:
-    min=b
-    
+min=a if a<b else b
 print(min)
 
 if a==b:
