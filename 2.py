@@ -1,5 +1,5 @@
 name="Abhik"
-roll_no="01"
+roll_no="1"
 branch="computer science engineering"
 print("My name is ",name,".\nMy roll_no is ",roll_no,".\nI belong to ",branch)
 

@@ -23,7 +23,7 @@ print(a | b)
 print(~a)#bitwise not operator
 print(a>>1)
 print(a<<1)
-print(a^b)
+print(a^b)#xor operator
 
 list=[23,45,67,10,20]
 u=45
